@@ -6,6 +6,6 @@ in the past, present, or future. When a user clicks into a time block, they
 can enter an event. Each time block has an individual save button that will
 save that entry to their local storage. 
 
-The live version of this project can be accessed at: https://ojds2022.github.io/work_schedule/
+The live version of this project can be accessed at: https://ojds2022.github.io/work_day_scheduler/
 
 ![Application Screenshot](./assets/images/Work_Day_Scheduler.jpg "Application Screenshot")
